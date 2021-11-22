@@ -1,0 +1,17 @@
+{
+    "version": "0.1.1",
+    "author": {"name":"alilajevardi","email":"alilajevardi"},
+    "resources": [
+        {
+            "resourceId": "rId0",
+            "sourceType": 5,
+            "file": "resources/mapcv4pbi.pbiviz.json"
+        }
+    ],
+    "visual": {"name":"mapcv4pbi","displayName":"mapcv4pbi","guid":"mapcv4pbi","visualClassName":"Visual","version":"0.1.1","description":"Power Bi Custom Visual Map via Leaflet","supportUrl":"https://github.com/alilajevardi","gitHubUrl":"https://github.com/alilajevardi"},
+    "metadata": {
+        "pbivizjson": {
+            "resourceId": "rId0"
+        }
+    }  
+}
