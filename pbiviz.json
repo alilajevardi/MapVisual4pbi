@@ -1,0 +1,24 @@
+{
+    "visual": {
+        "name": "mapcv4pbi",
+        "displayName": "mapcv4pbi",
+        "guid": "mapcv4pbi",
+        "visualClassName": "Visual",
+        "version": "0.1.1",
+        "description": "Power Bi Custom Visual Map via Leaflet",
+        "supportUrl": "https://github.com/alilajevardi",
+        "gitHubUrl": "https://github.com/alilajevardi"
+    },
+    "apiVersion": "3.8.0",
+    "author": {
+        "name": "alilajevardi",
+        "email": "alilajevardi"
+    },
+    "assets": {
+        "icon": "assets/Map4.png"
+    },
+    "style": "style/visual.less",
+    "capabilities": "capabilities.json",
+    "dependencies": null,
+    "stringResources": []
+}
