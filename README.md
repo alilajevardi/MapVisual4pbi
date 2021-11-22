@@ -11,7 +11,9 @@ The built custom visual ([mapcv4pbi.0.1.1.pbiviz](https://github.com/alilajevard
 2. Download the code from here
 3. In Node.js command prompt go to the code directory and install required dependencies:
 ``` npm install -g powerbi-visuals-tools ```
+
 ``` npm install --save leaflet ```
+
 ``` npm install --save-dev @types/leaflet ```
 
 You can use Visual Studion Code as IDE.
