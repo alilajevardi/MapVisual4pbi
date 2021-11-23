@@ -17,6 +17,8 @@ The built custom visual ([mapcv4pbi.0.1.1.pbiviz](https://github.com/alilajevard
 
 ``` npm install --save-dev @types/leaflet ```
 
+``` npm install --save @types/leaflet.heat ```
+
 You can use Visual Studion Code as IDE.
 The package is built through:
 ```
